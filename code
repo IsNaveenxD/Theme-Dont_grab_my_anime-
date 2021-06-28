@@ -1,0 +1,41 @@
+/**
+* @name Dont_grab_my_anime!
+* @version Auto Update
+* @description This theme it can be edited!
+* @author ItzNaveen
+* @invite PZdnCVD 
+*/
+@import url("https://codedotspectra.github.io/themes/themes-cores/neutron8.css");
+@import url('https://discordstyles.github.io/RadialStatus/base.css');
+@import url('https://discordstyles.github.io/HorizontalServerList/base.css');
+@import url('https://fonts.googleapis.com/css2?family=Prompt');
+:root {
+--themeColor1: rgb(44, 216, 207);
+--themeColor2: #5B86E5;
+--customFont: 'https://fonts.googleapis.com/css2?family=Lato:wght@900&display=swap';
+--homeImage: url('https://media1.tenor.com/images/134212ba34a8099c993e07a686345f84/tenor.gif?itemid=8215787.gif');
+--homeImageSize: cover;
+--backgroundColor: #0d0d0d;
+--backgroundImage: url('https://media1.tenor.com/images/9d355f517891104fc2d2b90f320551a7/tenor.gif?itemid=18361479.gif');
+--backgroundPosition: center;
+--backgroundSize: cover;
+--backgroundRepeat: no-repeat;
+--backgroundBlur: 0px;
+--backgroundOpacity: 0.65;
+--HSL-server-icon-size: 45px;
+--HSL-server-spacing: 15px;
+--rs-small-spacing: 2px;
+--rs-medium-spacing: 3px;
+--rs-large-spacing: 4px;
+--rs-small-width: 2px;
+--rs-medium-width: 3px;
+--rs-large-width: 4px;
+--rs-avatar-shape: 50%;
+--rs-online-color: #43b581;
+--rs-idle-color: #faa61a;
+--rs-dnd-color: #f04747;
+--rs-offline-color: #636b75;
+--rs-streaming-color: #643da7;
+--rs-invisible-color: #747f8d;
+--rs-phone-visible: block;
+}
